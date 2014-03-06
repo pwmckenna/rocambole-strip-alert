@@ -1,6 +1,6 @@
 {
   "name": "rocambole-strip-alert",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Strip alert statements from a rocambole AST",
   "license": "MIT",
   "repository": "pwmckenna/rocambole-strip-alert",
