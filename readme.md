@@ -1,4 +1,4 @@
-# rocambole-strip-alert [![Build Status](https://travis-ci.org/sindresorhus/rocambole-strip-alert.png?branch=master)](https://travis-ci.org/sindresorhus/rocambole-strip-alert)
+# rocambole-strip-alert [![Build Status](https://travis-ci.org/pwmckenna/rocambole-strip-alert.png?branch=master)](https://travis-ci.org/pwmckenna/rocambole-strip-alert)
 
 > Strip console statements from a [rocambole](https://github.com/millermedeiros/rocambole) AST
 
