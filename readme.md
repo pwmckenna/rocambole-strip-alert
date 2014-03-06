@@ -27,4 +27,4 @@ To prevent any side-effects, `alert` is replaced with `void 0` instead of being 
 
 ## License
 
-MIT © [Sindre Sorhus](http://sindresorhus.com)
+MIT © [Patrick Williams](http://pwmckenna.com)
